@@ -2,16 +2,16 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
-      "restaurant": "hello"
-      "lang": 1.23
+      "title": "hello",
+      "restaurant": "Ezy1",
+      "lang": 1.23,
       "long": 2.34
     },
     {
       "id": 2,
-      "title": "Hi again"
-      "restaurant": "Ezy2"
-      "langtitude": 9.32
+      "title": "Hi again",
+      "restaurant": "Ezy2",
+      "langtitude": 9.32,
       "longitude": 3.42
     }
   ],
