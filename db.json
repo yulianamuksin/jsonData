@@ -3,9 +3,9 @@
     {
       "id": 1,
       "title": "hello"
-      "restaurant": "Ezy1"
-      "langtitude": 1.23
-      "longitude": 2.34
+      "restaurant": "hello"
+      "lang": 1.23
+      "long": 2.34
     },
     {
       "id": 2,
